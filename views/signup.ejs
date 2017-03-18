@@ -1,0 +1,24 @@
+<% var title = 'Registro de nuevo usuario' %>
+<% include head %>
+
+<h1>Registro de nuevo usuario</h1>
+Complete los datos para el nuevo usuario:
+<form method="post" action="/signup">
+    <p>
+        <label>Nombre de usuario:</label>
+        <input type="text" name="username">
+    </p>
+    <p>
+        <label>Contraseña:</label>
+        <input type="text" name="password1">
+    </p>
+    <p>
+        <label>Repita la contraseña:</label>
+        <input type="text" name="password2">
+    </p>
+    <p>
+        <input type="submit" value="Registrarse">
+    </p>
+</form>
+
+<% include foot %>
