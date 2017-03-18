@@ -1,0 +1,20 @@
+<% var title = 'Iniciar sesión' %>
+<% include head %>
+
+<h1>Iniciar sesión</h1>
+Intente acceder al contenido del <a href="/content">libro</a>, después inicie sesión.
+<form method="post" action="/login">
+    <p>
+        <label>Nombre de usuario:</label>
+        <input type="text" name="username">
+    </p>
+    <p>
+        <label>Contraseña:</label>
+        <input type="text" name="password">
+    </p>
+    <p>
+        <input type="submit" value="Iniciar sesión">
+    </p>
+</form>
+
+<% include foot %>
