@@ -28,22 +28,6 @@
 * [Descripción de la Práctica: Evaluar Manejo de Rutas en ExpressJS](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicalearningcookies.html).
 * [Apuntes sobre Cookies y Sessions](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/apuntes/cookies/).
 
-## Autores
-
-José Luis Doblado González  
-* [Github](https://github.com/alu0100767001)
-* [Pagina personal](https://alu0100767001.github.io/dsi-joseluis/)
-
-
-Edna Liliana Galiano Camacho  
-* [Github](https://github.com/ednagc)
-* [Pagina personal](https://ednagc.github.io/edna-galiano/)
-
-Kevin Estévez Expósito  
-* [Github](https://github.com/alu0100821390)
-* [Pagina personal](http://alu0100821390.github.io)
-
-
 ## Aplicación 
 
 [Despliegue en Heroku]() - Edna Liliana Galiano Camacho
@@ -58,6 +42,15 @@ Kevin Estévez Expósito
 
 [Despliegue en Iaas]() - Kevin Estévez Expósito
 
+## A tener en cuenta
+
+El fichero de claves contiene tres pares *usuario: clave* por defecto que, desde la aplicación, no podrán ser eliminados ni tampoco podrán modificar sus contraseñas. De esta forma se garantiza que siempre habrá alguna cuenta con la que iniciar sesión. Estos 3 pares se guardan en el fichero de claves con la contraseña encriptada, nunca se guardarán contraseñas sin encriptar, y son los siguientes:
+
+   * edna: ednapassword
+   * joseluis: joseluispassword
+   * kevin: kevinpassword
+
+El resto de usuarios que se registren podrán ser eliminados y podrán también cambiar sus contraseñas.
 
 ## Enlace descripción Práctica
 
@@ -66,6 +59,21 @@ Kevin Estévez Expósito
 ## Asignatura DSI ULL 
 
 [Desarrollo de Sistemas Informáticos](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
+
+## Autores
+
+José Luis Doblado González  
+* [Github](https://github.com/alu0100767001)
+* [Pagina personal](https://alu0100767001.github.io/dsi-joseluis/)
+
+
+Edna Liliana Galiano Camacho  
+* [Github](https://github.com/ednagc)
+* [Pagina personal](https://ednagc.github.io/edna-galiano/)
+
+Kevin Estévez Expósito  
+* [Github](https://github.com/alu0100821390)
+* [Pagina personal](http://alu0100821390.github.io)
 
 
 
