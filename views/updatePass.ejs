@@ -1,0 +1,20 @@
+<% var title = 'Actualizar contraseña' %>
+<% include head %>
+
+<h1>Actualizar contraseña</h1>
+<p>Actualizar la contraseña del usuario <%- username %>.</p>
+<form method="post" action="/updatePass">
+    <p>
+        <label>Nueva contraseña:</label>
+        <input type="text" name="password1">
+    </p>
+    <p>
+        <label>Repita la nueva contraseña:</label>
+        <input type="text" name="password2">
+    </p>
+    <p>
+        <input type="submit" value="Cambiar contraseña">
+    </p>
+</form>
+
+<% include foot %>
