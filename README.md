@@ -52,13 +52,13 @@ El fichero de claves contiene tres pares *usuario: clave* por defecto que, desde
 
 El resto de usuarios que se registren podrán ser eliminados y podrán también cambiar sus contraseñas.
 
-## Enlace descripción Práctica
-
-[Práctica 5](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicasessions.html)
-
 ## Asignatura DSI ULL 
 
 [Desarrollo de Sistemas Informáticos](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
+
+## Enlace descripción Práctica
+
+[Práctica 5](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicasessions.html)
 
 ## Autores
 
