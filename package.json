@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/sessions-y-autenticacion-en-expressjs-edna-joseluis-kevin-35l2v3/issues"
   },
-  "homepage": "https://github.com/ULL-ESIT-DSI-1617/sessions-y-autenticacion-en-expressjs-edna-joseluis-kevin-35l2v3#readme"
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/sessions-y-autenticacion-en-expressjs-edna-joseluis-kevin-35l2v3#readme",
+  "devDependencies": {
+    "gitbook": "^3.2.2",
+    "gitbook-cli": "^2.3.0"
+  }
 }
