@@ -1,0 +1,19 @@
+{
+  "name": "sessions-y-autenticacion-en-expressjs-edna-joseluis-kevin-35l2v3",
+  "version": "1.0.0",
+  "description": "Práctica: Sessions y Autenticación en ExpressJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/sessions-y-autenticacion-en-expressjs-edna-joseluis-kevin-35l2v3.git"
+  },
+  "author": "Edna Liliana Galiano Camacho - José Luis Doblado González - Kevin Estévez Expósito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/sessions-y-autenticacion-en-expressjs-edna-joseluis-kevin-35l2v3/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/sessions-y-autenticacion-en-expressjs-edna-joseluis-kevin-35l2v3#readme"
+}
