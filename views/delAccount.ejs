@@ -1,0 +1,20 @@
+<% var title = 'Eliminar usuario' %>
+<% include head %>
+
+<h1>Eliminar usuario</h1>
+<p>Si de verdad quiere eliminar el usuario <%- username %>, introduzca los siguientes datos:</p>
+<form method="post" action="/delAccount">
+    <p>
+        <label>Contraseña:</label>
+        <input type="text" name="password1">
+    </p>
+    <p>
+        <label>Repita la contraseña:</label>
+        <input type="text" name="password2">
+    </p>
+    <p>
+        <input type="submit" value="Eliminar usuario">
+    </p>
+</form>
+
+<% include foot %>
