@@ -28,9 +28,9 @@
 * [Descripción de la Práctica: Evaluar Manejo de Rutas en ExpressJS](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicalearningcookies.html).
 * [Apuntes sobre Cookies y Sessions](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/apuntes/cookies/).
 
-## Aplicación 
+## Aplicación
 
-[Despliegue en Heroku]() - Edna Liliana Galiano Camacho
+[Despliegue en Heroku](https://sessions-auten-expressjs.herokuapp.com/) - Edna Liliana Galiano Camacho
 
 [Despliegue en Heroku]() - José Luis Doblado González
 
@@ -50,7 +50,7 @@ El fichero de claves contiene tres pares *usuario: clave* por defecto que, desde
 
 El resto de usuarios que se registren podrán ser eliminados y podrán también cambiar sus contraseñas.
 
-## Asignatura DSI ULL 
+## Asignatura DSI ULL
 
 [Desarrollo de Sistemas Informáticos](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
 
@@ -72,6 +72,3 @@ Edna Liliana Galiano Camacho
 Kevin Estévez Expósito  
 * [Github](https://github.com/alu0100821390)
 * [Pagina personal](http://alu0100821390.github.io)
-
-
-
