@@ -32,7 +32,7 @@
 
 [Despliegue en Heroku](https://sessions-auten-expressjs.herokuapp.com/) - Edna Liliana Galiano Camacho
 
-[Despliegue en Heroku]() - José Luis Doblado González
+[Despliegue en Heroku](https://sessionyautenticacion.herokuapp.com/) - José Luis Doblado González
 
 [Despliegue en Heroku](https://sessions-autenticacion-express.herokuapp.com/) - Kevin Estévez Expósito
 
