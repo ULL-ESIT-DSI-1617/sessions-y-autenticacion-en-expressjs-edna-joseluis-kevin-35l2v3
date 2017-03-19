@@ -19,5 +19,12 @@
   "devDependencies": {
     "gitbook": "^3.2.2",
     "gitbook-cli": "^2.3.0"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "express-session": "^1.15.1"
   }
 }
