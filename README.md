@@ -38,9 +38,7 @@
 
 [Despliegue en Iaas]() - Edna Liliana Galiano Camacho
 
-[Despliegue en Iaas]() - José Luis Doblado González
-
-[Despliegue en Iaas]() - Kevin Estévez Expósito
+[Despliegue en Iaas](http://10.6.128.96:8086/) - Kevin Estévez Expósito
 
 ## A tener en cuenta
 
