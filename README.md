@@ -36,7 +36,7 @@
 
 [Despliegue en Heroku](https://sessions-autenticacion-express.herokuapp.com/) - Kevin Estévez Expósito
 
-[Despliegue en Iaas](http://10.6.129.247:8083) - Edna Liliana Galiano Camacho
+[Despliegue en Iaas](http://10.6.128.144:8085/) - Edna Liliana Galiano Camacho
 
 [Despliegue en Iaas](http://10.6.128.96:8086/) - Kevin Estévez Expósito
 
